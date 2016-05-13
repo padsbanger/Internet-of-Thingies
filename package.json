@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cylonjs": "*"
+    "cylonjs": "*",
+    "ds18b20": "^0.1.0",
+    "mongoose": "^4.4.16"
   }
 }
